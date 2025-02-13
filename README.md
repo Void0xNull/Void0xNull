@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">· Always eager to learn more about offensive security and ethical hacking.<br><br>· Passionate about Linux, from system hardening to automation and security. I enjoy tweaking configurations, exploring distros, and pushing the limits of what’s possible.<br><br>· Constantly experimenting with hacking tools, network security, and new technologies.<br><br>· When I'm not in front of a terminal, I love rock climbing, listening to jazz, and diving into anything tech-related.</h4>
+<h4 align="left">· Always eager to learn more about offensive security and ethical hacking.<br><br>· Passionate about Linux, from system hardening to automation and security. I enjoy tweaking configurations, exploring distros.<br><br>· Constantly experimenting with hacking tools, network security, and new technologies.<br><br>· When I'm not in front of a terminal, I love rock climbing, listening to jazz, and diving into anything tech-related.</h4>
 
 ###
 
