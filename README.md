@@ -16,8 +16,8 @@
 
 ## My Certifications
 
-<a href="https://www.credly.com/badges/97bc14f2-e52e-4826-92f8-c9fa14380176" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/97bc14f2-e52e-4826-92f8-c9fa14380176.png" class="cert" alt="Certification Badge" width="100px">
+<a href="https://www.credly.com/badges/97bc14f2-e52e-4826-92f8-c9fa14380176/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100px">
 </a>
 
 ###
