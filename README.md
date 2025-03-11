@@ -14,6 +14,13 @@
 
 ###
 
+## My Certifications
+
+[![Credly Badge](https://images.credly.com/size/220x220/images/97bc14f2-e52e-4826-92f8-c9fa14380176.png)](https://www.credly.com/badges/97bc14f2-e52e-4826-92f8-c9fa14380176/public_url)
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
